@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+.largebox {box-sizing: border-box; Border:2px solid blue; color: pink}
+.imagetop {height:30px;width:30px;}
+.largefont {font-family:serif; font-family: cursive; color:blue; text-align: center;}
+.imagetopcontainer{float:right;}
+.largebox {box-sizing:border-box; border:2px solid blue; color:pink;}
+.box{border:2px solid black; background-color:pink; height: 300px; width:700px}
+
+.phone{display:flex;
+   align-items:center;}
+.eiffeltower{height:100px; width: 100px;}
+.caption{color:white; size:20px; font-size:10px}
